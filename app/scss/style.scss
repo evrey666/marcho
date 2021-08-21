@@ -64,4 +64,21 @@
 }
 
 
+.footer {
+  background-color: $bg;
+}
+
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  padding: 70px 0 40px;
+  border-bottom: 1px solid #ececec;
+  &__items:not(:last-child) {
+    margin-right: 30px;
+  }
+}
+
+
+
+
 @import 'media';
