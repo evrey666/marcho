@@ -22,6 +22,7 @@
     "jquery": "^3.6.0",
     "mozjpeg": "^7.0.0",
     "optipng-bin": "^7.0.0",
-    "pngquant-bin": "^6.0.0"
+    "pngquant-bin": "^6.0.0",
+    "slick-carousel": "^1.8.1"
   }
 }
